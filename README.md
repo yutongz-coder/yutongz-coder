@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @yutongz
-- 👀 I’m interested in applied mathematics 
-- 🌱 I’m currently learning python and machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @yutongz,
+- 🔍 PhD Researcher in Systems Science & Engineering @ Fudan University  
+- 📈 Focus: Applied Mathematics for Complex Systems  
+- 🌱 Exploring: AI-Driven Optimization | Network Dynamics  
+- ⚡ Fun fact: I have a cat, his name is Douhua 🐈
 
 <!---
 yutongz-coder/yutongz-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
