@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yutongz,
-- 🔍 PhD Researcher in Systems Science & Engineering @ Fudan University  
+- 🔍 PhD @ Fudan University  Research Institute of Intelligent Complex Systems
 - 📈 Focus: Applied Mathematics for Complex Systems  
-- 🌱 Exploring: AI-Driven Optimization | Network Dynamics  
+- 🌱 Exploring: Network Modeling| Algorithms  
 - ⚡ Fun fact: I have a cat, his name is Douhua 🐈
 
 <!---
